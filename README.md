@@ -13,7 +13,7 @@ But, note that it is not explicitly mentioned in the dataset about the diseases 
 Suppose you have been asked to determine the disease name and its probable treatment from the dataset and list it out in the form of a table or a dictionary like this.
 After discussing the problem given above, you need to build a custom NER to get the list of diseases and their treatment from the dataset.
 
-##In this assignment, you need to perform the following broad steps:
+## In this assignment, you need to perform the following broad steps:
 
 You need to process and modify the data into sentence format. This step has to be done for the 'train_sent' and ‘train_label’ datasets and for test datasets as well.
 After that, you need to define the features to build the CRF model.
